@@ -1,0 +1,11 @@
+/Users/lorna/Documents/MIDS 2022/Spring 2023/Cloud Computing/Rust Lang/rust_projects/csv_web/target/debug/deps/socket2-b504d104f34e6640.rmeta: /Users/lorna/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/lib.rs /Users/lorna/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sockaddr.rs /Users/lorna/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/socket.rs /Users/lorna/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sockref.rs /Users/lorna/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sys/unix.rs
+
+/Users/lorna/Documents/MIDS 2022/Spring 2023/Cloud Computing/Rust Lang/rust_projects/csv_web/target/debug/deps/libsocket2-b504d104f34e6640.rlib: /Users/lorna/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/lib.rs /Users/lorna/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sockaddr.rs /Users/lorna/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/socket.rs /Users/lorna/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sockref.rs /Users/lorna/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sys/unix.rs
+
+/Users/lorna/Documents/MIDS 2022/Spring 2023/Cloud Computing/Rust Lang/rust_projects/csv_web/target/debug/deps/socket2-b504d104f34e6640.d: /Users/lorna/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/lib.rs /Users/lorna/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sockaddr.rs /Users/lorna/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/socket.rs /Users/lorna/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sockref.rs /Users/lorna/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sys/unix.rs
+
+/Users/lorna/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/lib.rs:
+/Users/lorna/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sockaddr.rs:
+/Users/lorna/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/socket.rs:
+/Users/lorna/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sockref.rs:
+/Users/lorna/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sys/unix.rs:
