@@ -7,3 +7,4 @@ A collection of Rust lang projects for beginners
 4. Rust Web App: Introduction to web in rust
 5. Moving Avg: Exploring lists in Rust
 6. CSV web : a web interface to read and preview csvs
+7. Data Wrangler: a data wranfling script(mimics pandas behaviour)
