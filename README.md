@@ -9,3 +9,4 @@ A collection of Rust lang projects for beginners
 6. CSV web : a web interface to read and preview csvs
 7. Data Wrangler: a data wranfling script(mimics pandas behaviour)
 8. Summary Stats: get summary stats from a csv
+9. Sentiment Analyzer: Reads lines in a file and used sentimentrs crate to analyze it 
