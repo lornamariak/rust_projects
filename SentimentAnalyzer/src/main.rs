@@ -1,6 +1,7 @@
 use std::env;
 use std::fs::File;
 use std::io::{BufRead, BufReader};
+// Sentiment Rs crate
 use sentiment::{analyze, Sentiment};
 use std::cmp::Ordering;
 
