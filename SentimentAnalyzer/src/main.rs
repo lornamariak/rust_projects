@@ -21,9 +21,9 @@ fn main() {
     //go over it line by line
     for line in reader.lines() {
         let text = line.expect("Failed to read line.");
+        //analyse sentiment in sentence
         let score = analyze(text);
-
-    //analyze and compare positive, negative and neutral sentiments for each sentence
+    //compare positive, negative and neutral sentiments for each sentence
         if score.positive > score.negative {
             println!("The text is positive: {}", text);
         } else if score.positive < score.negative {
